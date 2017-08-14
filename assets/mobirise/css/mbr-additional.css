@@ -1,4 +1,5 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -35,7 +36,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -101,7 +102,7 @@ body {
   word-break: break-word;
 }
 .navbar .btn {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
 }
 .navbar .btn > .mbr-iconfont {
@@ -805,95 +806,4 @@ pre {
 .header13 .form-inline button,
 .header14 .form-inline button {
   border-radius: 100px !important;
-}
-.cid-qrWbAGr2OT {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/beach-house-shawn-1200x679.jpg");
-}
-.cid-qrWduWzfoj {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #efefef;
-}
-.cid-qrWduWzfoj .card-img {
-  background-color: #fff;
-}
-.cid-qrWduWzfoj .card-img a {
-  display: block;
-  padding-top: 2rem;
-}
-.cid-qrWduWzfoj .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qrWduWzfoj h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qrWduWzfoj p {
-  text-align: left;
-}
-.cid-qrWduWzfoj .mbr-text {
-  color: #767676;
-}
-.cid-qrWduWzfoj .card-wrapper {
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qrWduWzfoj .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qrWduWzfoj .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qrWeM99GDs {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-qrWeM99GDs .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qrWfCMUydv {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qrWfCMUydv .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qrWfCMUydv .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qrWfCMUydv .mbr-text {
-  color: #767676;
-}
-.cid-qrWfDzIwdp {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qrWfDzIwdp .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qrWfDzIwdp .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-qrWfDzIwdp .mbr-text {
-  color: #767676;
 }
